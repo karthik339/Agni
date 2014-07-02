@@ -1,0 +1,7 @@
+The software/tools that needs to be installed are 
+1) Flask 
+2) Pip
+3) APache 
+4) Mysql 
+5) Virtualenv (all these as part of Flask)
+
